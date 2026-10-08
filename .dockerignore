@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+uploads/
+*.zip
+test-output.zip
+test-output/
+.git/
+.vscode/
+.idea/
+*.log
